@@ -207,7 +207,7 @@ This project was developed collaboratively as part of the CITS4012 Natural Langu
 
 *Contributor details will be added here.*
 
-| Contributor | Role and contributions | Profile |
+| Contributor | Role and contributions | 
 |---|---|---|
 | Ankit Narula | Prepared the Abstract, Introduction, and Ablation Studies sections of the report and implemented the baseline models | 
 | Anjana Lakshmi Ramakrishnan | Contributed to the Methodology, Baseline Models, and Qualitative Attention Analysis sections of the report. Also implemented data                                  preprocessing and fine-tuning of the BERT base model. 
@@ -230,12 +230,6 @@ Potential directions for further work include:
 ## Acknowledgements
 
 This work was completed as part of the CITS4012 Natural Language Processing unit at the University of Western Australia. The project uses the PIQA benchmark for physical commonsense reasoning.
-
-Please add any required dataset, model, course, and third-party software citations here, in accordance with the assignment requirements.
-
-## License
-
-[Choose and specify a licence before publishing the repository for reuse. Confirm that the dataset and any included model artefacts can be redistributed under the relevant terms.]
 
 ---
 
