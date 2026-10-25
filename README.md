@@ -209,10 +209,11 @@ This project was developed collaboratively as part of the CITS4012 Natural Langu
 
 | Contributor | Role and contributions | Profile |
 |---|---|---|
-| [Your name] | [Model development, experimentation, evaluation, or other contributions] | [GitHub / LinkedIn] |
-| [Co-contributor 2] | [Contribution summary] | [GitHub / LinkedIn] |
-| [Co-contributor 3] | [Contribution summary] | [GitHub / LinkedIn] |
-| [Co-contributor 4] | [Contribution summary] | [GitHub / LinkedIn] |
+| Ankit Narula | Prepared the Abstract, Introduction, and Ablation Studies sections of the report and implemented the baseline models | 
+| Anjana Lakshmi Ramakrishnan | Contributed to the Methodology, Baseline Models, and Qualitative Attention Analysis sections of the report. Also implemented
+data preprocessing and fine-tuning of the BERT base model. 
+| Rohit Ramamoorthy | Prepared the Dataset Description, Training Procedure and Hyperparameters, Evaluation Metrics, Overall Performance Comparison, and Conclusion sections. Also implemented visualisations for model performance evaluation and qualitative attention analysis.
+
 
 Update the table to reflect the actual team and each member's contributions.
 
